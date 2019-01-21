@@ -24,15 +24,16 @@ function toProperCase(lower){
     return lower.charAt(0).toUpperCase() + lower.substr(1);
 }
 
+
 function ControlButton({name, active}){
     return (
         <AppContext.Consumer>
             {({page, setPage}) => (
                 <ControlButtonElem 
-                    active={page === active}
-                    onClick ={() => setPage(name)}
+                    active  = {page === name}
+                    onClick = {() => setPage(name)}
                 >
-                {toProperCase(name)}
+                    {toProperCase(name)}
                 </ControlButtonElem>
             )}
         </AppContext.Consumer>
