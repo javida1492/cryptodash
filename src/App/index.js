@@ -1,23 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import styled, {css} from 'styled-components';
+//import styled, {css} from 'styled-components';
 import AppLayout from './AppLayout';
 import AppBar from './AppBar';
 import {AppProvider} from './AppProvider';
 import Settings from '../Settings';
 import Content from '../Shared/Content';
-
-const MyButton = styled.div`
-  color: green;
-  ${props => props.primary && css`
-    color: palevioletred;
-  `}
-`;
-
-const TomatoButton = styled(MyButton)`
-  color: tomato;
-  border-color: tomato;
-`;
 
 class App extends Component {
   render() {
