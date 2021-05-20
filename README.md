@@ -1,6 +1,6 @@
 
 ![Dashboard](https://github.com/javida1492/cryptodash/blob/master/public/dashboard.png)
-![Settings](https://github.com/javida1492/cryptodash/blob/master/settings.jpg?raw=true)
+![Settings](https://github.com/javida1492/cryptodash/blob/master/public/settings.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
