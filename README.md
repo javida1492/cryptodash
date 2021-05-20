@@ -1,7 +1,5 @@
 ## A complete Cryptocurrency Dashboard built using JavaScript, ReactJS, React Context (state management), CSS3/CSS Grids, Lodash (functional programming), and Styled-Components. ##
 
-Project includes the following:
-
 ### Settings Page with Intro greeting ###
 * Greeting the user on first visit, asking them to choose their favorites
 * Providing a default 5 coins as favorites (unless otherwise changed) & a complete list of all coins
