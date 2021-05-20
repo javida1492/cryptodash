@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/javida1492/cryptodash/blob/master/dashboard.jpg?raw=true)
+![alt text](https://github.com/javida1492/cryptodash/blob/master/settings.jpg?raw=true)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
