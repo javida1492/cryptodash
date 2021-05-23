@@ -1,4 +1,4 @@
-## A complete Cryptocurrency Dashboard built using JavaScript, ReactJS, React Context (state management), CSS3/CSS Grids, Lodash (functional programming), and Styled-Components. ##
+## Cryptocurrency Dashboard ##
 
 ### Tech Stack ###
 * JavaScript/ES6
