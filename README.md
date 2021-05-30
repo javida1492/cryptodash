@@ -1,5 +1,7 @@
 ## Cryptocurrency Dashboard ##
 
+[Live Demo](https://cryptodash-v1.herokuapp.com/)
+
 ### Tech Stack ###
 * JavaScript/ES6
 * HTML5
